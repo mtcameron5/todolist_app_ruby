@@ -41,7 +41,7 @@ puts todo_list
 #---- Today's Todos ----
 ```
 
-And the necessary Gemfile:
+And the necessary `Gemfile`:
 ```ruby
 gem 'todolist_app'
 gem 'stamp'
