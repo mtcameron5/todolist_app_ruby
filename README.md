@@ -6,7 +6,7 @@ The `Todo` class takes one required argument, a String `title`, and two optional
 
 The `TodoList` class takes one required argument, a String `title`.
 
-Example code with output:
+Example code (only a few of the methods, see https://www.rubydoc.info/gems/todolist_app/1.0.0 for complete documentation):
 
 ```ruby
 require 'stamp'
